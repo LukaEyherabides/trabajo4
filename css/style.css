@@ -1,0 +1,76 @@
+/*
+primario: #BCA3E6
+secundario:#E69D97
+terciario:#CF9AE6
+cuarto:#E6A1E2
+*/
+body {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background: linear-gradient(gray, black , gray)
+    /* background-color: gray; */
+}
+.formularios{
+    font-size: 22px;
+}
+.listas{
+    background-color: #BCA3E6;
+    width: 130px;
+    border-radius: 15px;
+    margin-top: -70px;
+    box-shadow: 0 0 50px 0 black;
+
+}
+h1 {
+    font-size: 60px;
+}
+.formularios2 {
+background-color: #E69D97;
+width: 450px;
+border-radius: 15px;
+text-align: left;
+height: 335px;
+border-top: 8px solid black;
+border-bottom: 8px solid black;
+color: black;
+box-shadow: 0 0 50px 0 black;
+padding: 10px;
+
+
+}
+.boton1{
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 10px;
+}
+.regis{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 26px;
+    text-decoration: underline;
+}
+.formularios3{
+    font-size: 14px;
+    margin-left: 1000px;
+    text-align: center;
+}
+
+.presentacion{
+background-color: red;
+height: 430px;
+width: 300px;
+text-align: center;
+border-radius: 7px;
+padding-top: 2%;
+padding-bottom: 1%;
+background-color: #898386  ;
+color: black;
+
+}
+.foto1{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    padding-bottom: 5%;
+}
